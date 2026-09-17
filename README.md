@@ -10,9 +10,7 @@ I'm interested in the engineering that makes a model useful: connecting it to th
 
 ## Selected work
 
-These projects are currently private. I'm preparing public source releases with setup instructions and examples; code links will follow as each project is ready.
-
-| Project | What I'm building |
+| Project | What it does |
 | :--- | :--- |
 | **Transcribe** | Desktop dictation with native text insertion, built with Rust and Tauri. |
 | **Paperless-AGX** | Document ingestion and search, combining OCR, embeddings, and AI-assisted metadata processing. |
@@ -27,7 +25,3 @@ These projects are currently private. I'm preparing public source releases with 
 - **Systems and optimization:** native applications, C coursework, and constraint-driven problem solving.
 
 **Languages I work with:** Rust · TypeScript · Python · Swift · C
-
-## Next up
-
-A focused support-agent demo: retrieve relevant documentation, provide answers with sources, and hand the full case to a human when review is needed. The planned demo uses synthetic data and explicit approval for sensitive actions.
