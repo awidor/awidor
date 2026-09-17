@@ -16,7 +16,6 @@ I'm interested in the engineering that makes a model useful: connecting it to th
 | **Paperless-AGX** | Document ingestion and search, combining OCR, embeddings, and AI-assisted metadata processing. |
 | **RVMMenuBar** | A native macOS camera-preview app running the pretrained [Robust Video Matting](https://github.com/PeterL1n/RobustVideoMatting) model through Core ML. |
 | **pi-distill** | A Pi extension that compresses shell output before it enters a coding agent's context. |
-| **Factorio Blueprint Optimizer** | A heuristic placement and routing pipeline for generating Factorio blueprints. |
 
 ## What connects the work
 
